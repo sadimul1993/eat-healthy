@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+}
+
+/* hero section start */
+.link-button {
+    color: white;
+    background-image: linear-gradient(red, orange);
+    text-decoration: none;
+
+    padding: 10px 20px;
+    border-radius: 25px;
+    box-shadow: 10px 0px 40px rgb(238, 175, 175);
+}
+
+.hero-section {
+    display: flex;
+    padding: 10px;
+    padding-bottom: 150px;
+
+}
+
+.caption {
+    padding: 150px;
+}
+
+/* h1{
+   font-size: 70px;
+} */
+.half-width-1 {
+    font-size: 30px;
+}
+
+.half-width-2 img {
+    width: 100%;
+    margin: 0;
+
+}
+
+.hero-bg {
+    /* background-image: url(images/Group\ 8450.png);
+    width: 40%; */
+}
+
+.orange-color {
+    color: orangered;
+}
+
+/* hero section end */
+
+.about-section {
+    display: flex;
+    padding: 10px;
+    background-image: url(images/7.png);
+}
+
+.half-width-3 img {
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 150px;
+}
+
+.half-width-4 {
+    font-size: 30px;
+    padding-top: 50px;
+    padding-left: 550px;
+}
+
+
+.recipie-section {
+    margin: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.flexible-content {
+    display: flex;
+    /* width: 90%; */
+
+}
+
+.half-width {
+    text-align: center;
+    margin: 40px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 50px;
+
+
+}
+
+.half-width img {
+    width: 90%;
+    border-radius: 70px;
+    margin: 40px;
+}
+
+
+
+.sub-section {
+    display: flex;
+    margin: 100px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px rgb(202, 198, 198);
+}
+
+.width {
+    font-size: 35px;
+   text-align: center;
+   align-items: center;
+  padding-left: 225px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(44, 37, 37);
+    color: white;
+    height: 150px;
+    padding: 40px;
+}
